@@ -6,3 +6,5 @@
 
 - This tutorial is based on the official React Native tutorial -
   https://reactnative.dev/docs/getting-started
+
+- _Not urgent - continue this later_
